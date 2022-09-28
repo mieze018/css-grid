@@ -1,5 +1,5 @@
 # css-grid
-css grid　教訓まとめ できたらジェネレーター的なものも作りたい
+css grid　教訓まとめ できたらジェネレーター、playground的なものも作りたい
 
 ## grid-auto-rows / grid-auto-columns
 ### tw:  auto-rows- / auto-cos-
